@@ -1,5 +1,5 @@
 {
-	"name": "morethan3filedeleterpipeline",
+	"name": "morethan3fileuploaderpipeline",
 	"properties": {
 		"activities": [
 			{
