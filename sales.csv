@@ -1,0 +1,7 @@
+foodid,foodName,categoryName,sales
+1,idly,SI,100
+2,sambar,SI,30
+3,roti,NI,80
+4,daal,NI,30
+5,pizza,IC,200
+6,burger,IC,300
